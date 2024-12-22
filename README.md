@@ -5,7 +5,7 @@ A Bootstrap multipurpose template
 - https://prixima.netlify.app/
 
 # Clone Project
-- https://github.com/SA7MAN/Prixima
+- https://github.com/codewithpapakwame/Prixima
 
 # Features
 - Fully Responsive
